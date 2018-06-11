@@ -1,0 +1,22 @@
+{
+  "name": "15-trees",
+  "version": "1.0.0",
+  "description": "seattle-javascript-401d24, 15-trees",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "lint": "eslint **/*.js"
+  },
+  "author": "Ovidiu Parasca",
+  "license": "ISC",
+  "dependencies": {
+    "babel-env": "^2.4.1",
+    "babel-eslint": "^8.2.3",
+    "babel-register": "^6.26.0",
+    "jest": "^23.1.0",
+    "eslint": "^4.19.1"
+  }
+}
